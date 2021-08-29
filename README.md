@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Dicki Maulana Yusuf
 - 👀 I’m interested in Web Development, Music And Watch Movie
 - 🌱 I’m currently interesting with some frameworks/tools like Express.js, Nuxt.js, Vue.js, React.js, Node.js, RoR, MongoDB, React Native, Blockchain and Web3.js
-- 📫 You can contact me on gmail bukandicki@gmail.com
