@@ -16,5 +16,7 @@ Currently, I worked with these frameworks/libraries
 Fun fact
 I love to play guitar 🎸, watch movies 🎥, and also I love cats 😹
 
+_Psst... by the way be careful, I'm from another galaxy 🌌😹_
+
 ### Get in touch
 ✉️ dickimaulanawebdev@gmail.com
