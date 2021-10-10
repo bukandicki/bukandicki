@@ -12,11 +12,12 @@ Currently, I worked with these frameworks/libraries
 - Javascript Ethereum
 - SASS
 - Vuetify
+- Svelte
 
 Fun fact
-I love to play guitar 🎸, watch movies 🎥, and also I love cats 😹
+I love to play guitar 🎸, watch movies 🎥, and also I love cats because they so cute 😹
 
-_Psst... by the way be careful, I'm from another galaxy 🌌😹_
+_Psst... be careful, I'm from another galaxy 🌌😹_
 
 ### Get in touch
 ✉️ dickimaulanawebdev@gmail.com
