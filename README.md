@@ -8,6 +8,7 @@ Currently, I worked with these frameworks/libraries
 - React.js
 - React Native
 - Web3.js
+- Polkadot
 - RPC JSON
 - Javascript Ethereum
 - SASS
@@ -17,7 +18,7 @@ Currently, I worked with these frameworks/libraries
 Fun fact
 I love to play guitar 🎸, watch movies 🎥, and also I love cats because they so cute 😹
 
-_Psst... be careful, I'm from another galaxy 🌌😹_
+_Psst... I'm from another galaxy🌌😹_
 
 ### Get in touch
 ✉️ dickimaulanawebdev@gmail.com
