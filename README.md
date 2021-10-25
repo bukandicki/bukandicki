@@ -15,6 +15,8 @@ Currently, I worked with these frameworks/libraries
 - Vuetify
 - Svelte
 
+I'm very happy because I'm currently working on amazing projects from several communities and companies 😁😁😁
+
 Fun fact
 I love to play guitar 🎸, watch movies 🎥, and also I love cats because they so cute 😹
 
