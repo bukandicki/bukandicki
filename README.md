@@ -3,6 +3,8 @@
 
 I'm a software engineer who is passionate about javascript technologies. I love learning new things especially javascript technologies. Some technologies I enjoy working with include React.js, React Native, Vue.js, Express.js, ES6+, Sass, Pug.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bukandicki&count_private=true&show_icons=true&theme=dracula)](https://github.com/bukandicki/github-readme-stats)
+
 Currently, I worked with these frameworks/libraries
 - Vue.Js
 - React.js
