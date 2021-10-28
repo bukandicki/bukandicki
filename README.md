@@ -6,16 +6,19 @@ I'm a software engineer who is passionate about javascript technologies. I love 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bukandicki&count_private=true&show_icons=true&theme=dracula)](https://github.com/bukandicki/github-readme-stats)
 
 Currently, I worked with these frameworks/libraries
-- Vue.Js
-- React.js
-- React Native
-- Web3.js
-- Polkadot
-- RPC JSON
-- Javascript Ethereum
-- SASS
-- Vuetify
-- Svelte
+- ✔️ Vue.Js
+- ✔️ React.js
+- ✔️ React Native
+- ✔️ Web3.js
+- ✔️ Polkadot
+- ✔️ RPC JSON
+- ✔️ Javascript Ethereum
+- ✔️ SASS
+- ✔️ Vuetify
+- ✔️ Svelte
+- ✔️ PUG
+
+🛠️ Vue and React global component creator 🛠️
 
 I'm very happy because I'm currently working on amazing projects 😁😁😁
 
