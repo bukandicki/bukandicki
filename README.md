@@ -1,30 +1,6 @@
 ## Hi, I'm Dicki Maulana
 
-I'm a software engineer who is passionate about javascript technologies. I love learning new things especially javascript technologies. Some technologies I enjoy working with include React.js, React Native, Vue.js, Express.js, ES6+, Sass, Pug.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bukandicki&count_private=true&show_icons=true&theme=dracula)](https://github.com/bukandicki/github-readme-stats)
-
-Currently, I worked with these frameworks/libraries
-- ✔️ Vue.Js
-- ✔️ React.js
-- ✔️ React Native
-- ✔️ Web3.js
-- ✔️ Polkadot
-- ✔️ RPC JSON
-- ✔️ Javascript Ethereum
-- ✔️ SASS
-- ✔️ Vuetify
-- ✔️ Svelte
-- ✔️ PUG
-
-🛠️ Vue and React global component creator 🛠️
-
-I'm very happy because I'm currently working on amazing projects 😁😁😁
-
-Fun fact
-I love to play guitar 🎸, watch movies 🎥, and also I love cats because they so cute 😹
-
-_Psst... I'm from another galaxy🌌😹_
+With 3 years of experience in frontend development, my journey has evolved towards a passion for crafting captivating websites. My expertise shines in web motion design, leveraging GSAP & Next.js to create immersive experiences. Seamlessly transitioning into backend development, I've honed my skills with Express.js. Alongside, I've explored UI/UX design using Figma. Now, fueled by a relentless pursuit of innovation, I'm determined to push boundaries and create digital experiences that truly stand out.
 
 ### Get in touch
 ✉️ dickimaulanawebdev@gmail.com
